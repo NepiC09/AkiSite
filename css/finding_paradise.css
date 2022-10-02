@@ -1,0 +1,15 @@
+body {
+    background: url(../img/finding_paradise.png);
+}
+
+.trailer{
+    height: max-content;
+    background: rgb(41,3,59);
+background: linear-gradient(180deg, rgba(41,3,59,1) 0%, rgba(10,111,88,1) 100%);
+}
+
+.about{
+    height: max-content;
+    background: rgb(10,111,88);
+    background: linear-gradient(180deg, rgba(10,111,88,1) 0%, rgba(59,134,0,1) 100%);
+}

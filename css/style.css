@@ -68,7 +68,7 @@ header {
 .about{
     height: max-content;
     background: rgb(59,3,35);
-background: linear-gradient(180deg, rgba(59,3,35,1) 0%, rgba(149,102,0,1) 100%);
+    background: linear-gradient(180deg, rgba(59,3,35,1) 0%, rgba(149,102,0,1) 100%);
 }
 .text{
     font-size: large;
